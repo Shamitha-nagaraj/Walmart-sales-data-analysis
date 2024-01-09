@@ -36,7 +36,7 @@ The dataset was obtained from the  [Kaggle Walmart Sales Forecasting Competition
 
 3. **Conclusion:**
 
-4. ## Business Questions To Answer
+## Business Questions To Answer
 
 ### Generic Question
 
